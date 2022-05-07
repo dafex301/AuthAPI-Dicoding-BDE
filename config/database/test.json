@@ -1,0 +1,7 @@
+{
+  "user": "postgres",
+  "password": "nasiRendang!23",
+  "host": "localhost",
+  "port": 5432,
+  "database": "authapi_test"
+}
